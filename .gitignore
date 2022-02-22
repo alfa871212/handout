@@ -1,0 +1,14 @@
+*.aux
+*.bcf
+*.log
+*.out
+*.xml
+*.gz
+*.toc
+*/*.aux
+*/*.bcf
+*/*.log
+*/*.out
+*/*.xml
+*/*.gz
+*/*.toc
